@@ -7,6 +7,7 @@ public class GitBash2pgmTest {
 	public void gitBash2pgmTest()
 	{
 		System.out.println("Welcome");
+		//comment by b1
 	}
 
 }
